@@ -4,11 +4,11 @@
  * main - Entry point
  * Return: 0 on program success
  */
-int main (void)
+int main(void)
 {
 	char alpha;
 
-	for (alpha = 'a'; alpha >= 'z'; alpha--)
+	for (alpha = 'z'; alpha >= 'a'; alpha--)
 	{
 	putchar(alpha);
 	}
