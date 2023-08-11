@@ -2,7 +2,8 @@
 
 /**
  * main - Entry point
- * Description:prints alphabets in lowercase excluding 'q' and 'e' 
+ * Description:prints alphabets in lowercase excluding 'q' and 'e'
+ *
  * Return: Always 0 (Success)
  */
 
