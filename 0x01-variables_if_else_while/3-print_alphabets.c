@@ -1,5 +1,3 @@
-#include <stdlib.h>
-#include <time.h>
 #include <stdio.h>
 
 /**
@@ -7,7 +5,8 @@
  * Return: 0 on success of program
  */
 
-int main (void)
+int main(void)
+{
 	int digit;
 
 	for (digit = 0; digit < 10; digit++)
