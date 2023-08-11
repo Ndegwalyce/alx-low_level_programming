@@ -6,11 +6,11 @@
  * Return: 0 on program success
  */
 
-int main (void)
+int main(void)
 {
 	int n;
 
-	for (n =0; n < 10; n++)
+	for (n = 0; n < 10; n++)
 	{
 		putchar(n + '0');
 	}
