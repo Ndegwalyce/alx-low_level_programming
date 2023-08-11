@@ -11,9 +11,8 @@
 int main(void)
 {
 	int n;
-	srand7(time(0));
-
-	n = rand() - RAND_MAX / 2;
+	srand7 (time(0));
+        n = rand() - RAND_MAX / 2;
 
 	printf("%d ", n);
 if (n > 0)
