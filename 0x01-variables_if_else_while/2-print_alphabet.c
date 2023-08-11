@@ -1,5 +1,3 @@
-#include <stdlib.h>
-#include < time.h>
 #include < stdio.h>
 
 /**
@@ -8,7 +6,7 @@
  * Return: Always return 0 (Success)
  */
 
-int main (void)
+int main(void)
 {
 	int x;
 
