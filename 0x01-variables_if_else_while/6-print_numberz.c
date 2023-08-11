@@ -5,7 +5,7 @@
  * Return: 0 on program success
  */
 
-int main (void)
+int main(void)
 {
 	int n;
 
